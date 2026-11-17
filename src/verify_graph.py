@@ -1,7 +1,7 @@
 from neo4j import GraphDatabase
 
 def verify_database():
-    uri = "bolt://localhost:7687"
+    uri = "bolt://127.0.0.1:7687"
     user = "neo4j"
     password = "password123"
 

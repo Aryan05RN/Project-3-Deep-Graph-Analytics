@@ -53,7 +53,7 @@ class GraphDatabaseConnector:
 
 if __name__ == "__main__":
     # Local Neo4j credentials
-    URI = "bolt://localhost:7687"
+    URI = "bolt://127.0.0.1:7687"
     USER = "neo4j"
     PASSWORD = "password123" 
     
