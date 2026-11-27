@@ -1,0 +1,896 @@
+[
+  {
+    "ring_id": "RING-006",
+    "hop_length": 4,
+    "total_volume": 98866.0,
+    "accounts": [
+      "ACC_0001",
+      "ACC_0002",
+      "ACC_0003",
+      "ACC_0004"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0001",
+        "target": "ACC_0002",
+        "amount": 24785.0,
+        "tx_count": 5
+      },
+      {
+        "source": "ACC_0002",
+        "target": "ACC_0003",
+        "amount": 24728.0,
+        "tx_count": 5
+      },
+      {
+        "source": "ACC_0003",
+        "target": "ACC_0004",
+        "amount": 24699.0,
+        "tx_count": 5
+      },
+      {
+        "source": "ACC_0004",
+        "target": "ACC_0001",
+        "amount": 24654.0,
+        "tx_count": 5
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-013",
+    "hop_length": 6,
+    "total_volume": 2490.07,
+    "accounts": [
+      "ACC_0031",
+      "ACC_0570",
+      "ACC_0564",
+      "ACC_0388",
+      "ACC_0360",
+      "ACC_0225"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0031",
+        "target": "ACC_0570",
+        "amount": 389.13,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0570",
+        "target": "ACC_0564",
+        "amount": 209.37,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0564",
+        "target": "ACC_0388",
+        "amount": 192.89,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0388",
+        "target": "ACC_0360",
+        "amount": 471.48,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0360",
+        "target": "ACC_0225",
+        "amount": 398.52,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0225",
+        "target": "ACC_0031",
+        "amount": 828.68,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-004",
+    "hop_length": 5,
+    "total_volume": 2224.99,
+    "accounts": [
+      "ACC_0332",
+      "ACC_0591",
+      "ACC_0391",
+      "ACC_0359",
+      "ACC_0564"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0332",
+        "target": "ACC_0591",
+        "amount": 326.57,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0591",
+        "target": "ACC_0391",
+        "amount": 152.99,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0391",
+        "target": "ACC_0359",
+        "amount": 1330.01,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0359",
+        "target": "ACC_0564",
+        "amount": 163.79,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0564",
+        "target": "ACC_0332",
+        "amount": 251.63,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-010",
+    "hop_length": 6,
+    "total_volume": 2017.59,
+    "accounts": [
+      "ACC_0056",
+      "ACC_0247",
+      "ACC_0340",
+      "ACC_0215",
+      "ACC_0216",
+      "ACC_0354"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0247",
+        "amount": 333.74,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0247",
+        "target": "ACC_0340",
+        "amount": 43.29,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0340",
+        "target": "ACC_0215",
+        "amount": 203.68,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0215",
+        "target": "ACC_0216",
+        "amount": 505.15,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0216",
+        "target": "ACC_0354",
+        "amount": 378.41,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0354",
+        "target": "ACC_0056",
+        "amount": 553.32,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-008",
+    "hop_length": 6,
+    "total_volume": 1889.3,
+    "accounts": [
+      "ACC_0031",
+      "ACC_0068",
+      "ACC_0320",
+      "ACC_0342",
+      "ACC_0360",
+      "ACC_0225"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0031",
+        "target": "ACC_0068",
+        "amount": 28.7,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0068",
+        "target": "ACC_0320",
+        "amount": 250.75,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0320",
+        "target": "ACC_0342",
+        "amount": 279.23,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0342",
+        "target": "ACC_0360",
+        "amount": 103.42,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0360",
+        "target": "ACC_0225",
+        "amount": 398.52,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0225",
+        "target": "ACC_0031",
+        "amount": 828.68,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-011",
+    "hop_length": 4,
+    "total_volume": 1649.82,
+    "accounts": [
+      "ACC_0138",
+      "ACC_0341",
+      "ACC_0182",
+      "ACC_0489"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0138",
+        "target": "ACC_0341",
+        "amount": 81.81,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0341",
+        "target": "ACC_0182",
+        "amount": 1160.3,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0182",
+        "target": "ACC_0489",
+        "amount": 75.56,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0489",
+        "target": "ACC_0138",
+        "amount": 332.15,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-002",
+    "hop_length": 6,
+    "total_volume": 1637.8,
+    "accounts": [
+      "ACC_0332",
+      "ACC_0591",
+      "ACC_0391",
+      "ACC_0447",
+      "ACC_0414",
+      "ACC_0441"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0332",
+        "target": "ACC_0591",
+        "amount": 326.57,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0591",
+        "target": "ACC_0391",
+        "amount": 152.99,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0391",
+        "target": "ACC_0447",
+        "amount": 554.93,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0447",
+        "target": "ACC_0414",
+        "amount": 163.21,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0414",
+        "target": "ACC_0441",
+        "amount": 142.69,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0441",
+        "target": "ACC_0332",
+        "amount": 297.41,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-005",
+    "hop_length": 6,
+    "total_volume": 1607.91,
+    "accounts": [
+      "ACC_0094",
+      "ACC_0559",
+      "ACC_0303",
+      "ACC_0209",
+      "ACC_0160",
+      "ACC_0110"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0094",
+        "target": "ACC_0559",
+        "amount": 252.1,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0559",
+        "target": "ACC_0303",
+        "amount": 339.73,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0303",
+        "target": "ACC_0209",
+        "amount": 59.17,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0209",
+        "target": "ACC_0160",
+        "amount": 212.06,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0160",
+        "target": "ACC_0110",
+        "amount": 364.98,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0110",
+        "target": "ACC_0094",
+        "amount": 379.87,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-009",
+    "hop_length": 6,
+    "total_volume": 1473.17,
+    "accounts": [
+      "ACC_0082",
+      "ACC_0167",
+      "ACC_0579",
+      "ACC_0250",
+      "ACC_0530",
+      "ACC_0258"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0082",
+        "target": "ACC_0167",
+        "amount": 239.09,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0167",
+        "target": "ACC_0579",
+        "amount": 207.81,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0579",
+        "target": "ACC_0250",
+        "amount": 190.51,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0250",
+        "target": "ACC_0530",
+        "amount": 77.83,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0530",
+        "target": "ACC_0258",
+        "amount": 709.5,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0258",
+        "target": "ACC_0082",
+        "amount": 48.43,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-007",
+    "hop_length": 3,
+    "total_volume": 1419.92,
+    "accounts": [
+      "ACC_0048",
+      "ACC_0078",
+      "ACC_0466"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0048",
+        "target": "ACC_0078",
+        "amount": 180.89,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0078",
+        "target": "ACC_0466",
+        "amount": 686.19,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0466",
+        "target": "ACC_0048",
+        "amount": 552.84,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-019",
+    "hop_length": 6,
+    "total_volume": 1380.24,
+    "accounts": [
+      "ACC_0048",
+      "ACC_0485",
+      "ACC_0373",
+      "ACC_0056",
+      "ACC_0184",
+      "ACC_0466"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0048",
+        "target": "ACC_0485",
+        "amount": 230.34,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0485",
+        "target": "ACC_0373",
+        "amount": 58.51,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0373",
+        "target": "ACC_0056",
+        "amount": 73.6,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0184",
+        "amount": 58.21,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0184",
+        "target": "ACC_0466",
+        "amount": 406.74,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0466",
+        "target": "ACC_0048",
+        "amount": 552.84,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-017",
+    "hop_length": 6,
+    "total_volume": 1283.48,
+    "accounts": [
+      "ACC_0012",
+      "ACC_0075",
+      "ACC_0073",
+      "ACC_0485",
+      "ACC_0373",
+      "ACC_0056"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0012",
+        "target": "ACC_0075",
+        "amount": 361.67,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0075",
+        "target": "ACC_0073",
+        "amount": 89.73,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0073",
+        "target": "ACC_0485",
+        "amount": 40.5,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0485",
+        "target": "ACC_0373",
+        "amount": 58.51,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0373",
+        "target": "ACC_0056",
+        "amount": 73.6,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0056",
+        "target": "ACC_0012",
+        "amount": 659.47,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-018",
+    "hop_length": 6,
+    "total_volume": 1248.7,
+    "accounts": [
+      "ACC_0081",
+      "ACC_0406",
+      "ACC_0340",
+      "ACC_0364",
+      "ACC_0229",
+      "ACC_0530"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0081",
+        "target": "ACC_0406",
+        "amount": 662.92,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0406",
+        "target": "ACC_0340",
+        "amount": 185.0,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0340",
+        "target": "ACC_0364",
+        "amount": 26.08,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0364",
+        "target": "ACC_0229",
+        "amount": 92.12,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0229",
+        "target": "ACC_0530",
+        "amount": 64.47,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0530",
+        "target": "ACC_0081",
+        "amount": 218.11,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-015",
+    "hop_length": 5,
+    "total_volume": 1212.64,
+    "accounts": [
+      "ACC_0088",
+      "ACC_0410",
+      "ACC_0469",
+      "ACC_0124",
+      "ACC_0550"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0088",
+        "target": "ACC_0410",
+        "amount": 173.09,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0410",
+        "target": "ACC_0469",
+        "amount": 60.1,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0469",
+        "target": "ACC_0124",
+        "amount": 31.49,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0124",
+        "target": "ACC_0550",
+        "amount": 759.24,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0550",
+        "target": "ACC_0088",
+        "amount": 188.72,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-014",
+    "hop_length": 6,
+    "total_volume": 1172.19,
+    "accounts": [
+      "ACC_0294",
+      "ACC_0515",
+      "ACC_0441",
+      "ACC_0332",
+      "ACC_0591",
+      "ACC_0391"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0294",
+        "target": "ACC_0515",
+        "amount": 82.0,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0515",
+        "target": "ACC_0441",
+        "amount": 151.38,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0441",
+        "target": "ACC_0332",
+        "amount": 297.41,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0332",
+        "target": "ACC_0591",
+        "amount": 326.57,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0591",
+        "target": "ACC_0391",
+        "amount": 152.99,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0391",
+        "target": "ACC_0294",
+        "amount": 161.84,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-012",
+    "hop_length": 6,
+    "total_volume": 1170.72,
+    "accounts": [
+      "ACC_0010",
+      "ACC_0225",
+      "ACC_0591",
+      "ACC_0367",
+      "ACC_0075",
+      "ACC_0368"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0010",
+        "target": "ACC_0225",
+        "amount": 239.77,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0225",
+        "target": "ACC_0591",
+        "amount": 21.03,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0591",
+        "target": "ACC_0367",
+        "amount": 289.78,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0367",
+        "target": "ACC_0075",
+        "amount": 153.23,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0075",
+        "target": "ACC_0368",
+        "amount": 133.29,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0368",
+        "target": "ACC_0010",
+        "amount": 333.62,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-016",
+    "hop_length": 6,
+    "total_volume": 800.93,
+    "accounts": [
+      "ACC_0088",
+      "ACC_0410",
+      "ACC_0584",
+      "ACC_0179",
+      "ACC_0293",
+      "ACC_0550"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0088",
+        "target": "ACC_0410",
+        "amount": 173.09,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0410",
+        "target": "ACC_0584",
+        "amount": 139.44,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0584",
+        "target": "ACC_0179",
+        "amount": 15.37,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0179",
+        "target": "ACC_0293",
+        "amount": 228.05,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0293",
+        "target": "ACC_0550",
+        "amount": 56.26,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0550",
+        "target": "ACC_0088",
+        "amount": 188.72,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-003",
+    "hop_length": 3,
+    "total_volume": 795.24,
+    "accounts": [
+      "ACC_0138",
+      "ACC_0352",
+      "ACC_0234"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0138",
+        "target": "ACC_0352",
+        "amount": 54.86,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0352",
+        "target": "ACC_0234",
+        "amount": 96.21,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0234",
+        "target": "ACC_0138",
+        "amount": 644.17,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-001",
+    "hop_length": 3,
+    "total_volume": 539.75,
+    "accounts": [
+      "ACC_0016",
+      "ACC_0507",
+      "ACC_0419"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0016",
+        "target": "ACC_0507",
+        "amount": 165.26,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0507",
+        "target": "ACC_0419",
+        "amount": 266.83,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0419",
+        "target": "ACC_0016",
+        "amount": 107.66,
+        "tx_count": 1
+      }
+    ]
+  },
+  {
+    "ring_id": "RING-020",
+    "hop_length": 3,
+    "total_volume": 372.63,
+    "accounts": [
+      "ACC_0110",
+      "ACC_0136",
+      "ACC_0184"
+    ],
+    "edges": [
+      {
+        "source": "ACC_0110",
+        "target": "ACC_0136",
+        "amount": 149.74,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0136",
+        "target": "ACC_0184",
+        "amount": 126.83,
+        "tx_count": 1
+      },
+      {
+        "source": "ACC_0184",
+        "target": "ACC_0110",
+        "amount": 96.06,
+        "tx_count": 1
+      }
+    ]
+  }
+]
